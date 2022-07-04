@@ -17,9 +17,6 @@ $statement->bindValue(':b_ssn', $old_b_ssn);
 $statement->execute();
 $birth_info = $statement->fetch(PDO::FETCH_ASSOC);
 
-// echo var_dump($_POST);
-// echo var_dump($_FILES);
-
 
 /*  to update the contents */
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {

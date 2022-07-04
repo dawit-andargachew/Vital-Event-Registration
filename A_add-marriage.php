@@ -9,7 +9,6 @@ $pdo = new PDO('mysql:host=localhost;port=3306;dbname=vital_registration_databas
 $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 
-
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     $m_ssn = $_POST['ssn']; /* 1 */

@@ -16,8 +16,6 @@ $statement = $pdo->prepare('SELECT * FROM death_table WHERE d_ssn = :d_ssn');
 $statement->bindValue(':d_ssn', $old_d_ssn);
 $statement->execute();
 $death_info = $statement->fetch(PDO::FETCH_ASSOC);
-// echo var_dump($_POST);
-
 
 /*  to update the contents */
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {

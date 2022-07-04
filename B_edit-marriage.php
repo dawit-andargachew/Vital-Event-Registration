@@ -17,9 +17,6 @@ $statement->bindValue(':m_ssn', $old_m_ssn);
 $statement->execute();
 $marriage_info = $statement->fetch(PDO::FETCH_ASSOC);
 
-// $errors = [];
-// $ssn;
-// $name;
 /*  to update the contents */
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 

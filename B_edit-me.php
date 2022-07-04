@@ -14,9 +14,6 @@ $statement->bindValue(':ssn', $ssn);
 $statement->execute();
 $user_info = $statement->fetch(PDO::FETCH_ASSOC);
 
-
-
-// echo var_dump($_POST);
 /*  to update the contents */
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
