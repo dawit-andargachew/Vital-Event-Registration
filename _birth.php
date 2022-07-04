@@ -2,10 +2,9 @@
 session_start();
 
 $ssn =$_SESSION["ssn"] ??null;
-// vital_registration_database
 
-// // connect to datebase
-$pdo = new PDO('mysql:host=localhost;port=3306;dbname=dawit', 'root', '');
+// connect to datebase
+$pdo = new PDO('mysql:host=localhost;port=3306;dbname=vital_registration_database', 'root', '');
 $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 // qouery the databse
@@ -52,7 +51,7 @@ $birth_info = $statement->fetchAll(PDO::FETCH_ASSOC);
 
             <nav>
                 <a href="index.php">Home</a>
-                <a href="about.php">About Us</a> <!-- kale -->
+                <a href="about.php">About Us</a>
                 <a href="#to-footer">Contact Us</a>
 
                 <!-- log in or logout -->

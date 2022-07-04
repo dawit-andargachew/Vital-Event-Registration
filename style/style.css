@@ -14,7 +14,7 @@ body {
 }
 
 
-/*  */
+/* intor  */
 #intro {
     height: 87vh;
     background-color: #444;
@@ -89,12 +89,12 @@ nav a:hover {
 }
 
 #nav-login:hover {
-    /* background-color: white;
-    color: rgb(252, 88, 0); */
     background-color: rgb(252, 88, 0) ;
     color: white;
     outline: none;
 }
+
+
 /*End of header=================================*/
 .moto {
     color: rgb(252, 88, 0);
@@ -309,12 +309,8 @@ a {
     margin-left: 1rem;
     height: 2.5rem;
     position: fixed;
-    /*  */
     z-index: 4;
     margin-top: 6px;
-    /*  */
-    /* position: absolute;
-    top: 5px; */
     display: flex;
     justify-content: center;
     align-items: center;

@@ -3,7 +3,7 @@
 session_start();
 
 // connect the datase
-$pdo = new PDO('mysql:host=localhost;port=3306;dbname=dawit', 'root', '');
+$pdo = new PDO('mysql:host=localhost;port=3306;dbname=vital_registration_database', 'root', '');
 $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 // fetch

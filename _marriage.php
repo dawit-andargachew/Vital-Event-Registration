@@ -5,7 +5,7 @@ $ssn =$_SESSION["ssn"] ??null;
 
 
 // // connect to datebase
-$pdo = new PDO('mysql:host=localhost;port=3306;dbname=dawit', 'root', '');
+$pdo = new PDO('mysql:host=localhost;port=3306;dbname=vital_registration_database', 'root', '');
 $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 // qouery the databse
