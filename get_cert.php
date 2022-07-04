@@ -2,9 +2,6 @@
 
 session_start();
 
-// echo var_dump( empty($_SESSION));
-// echo var_dump( isset($_SESSION['ssn']));
-
 ?>
 
 <!DOCTYPE html>

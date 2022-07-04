@@ -8,7 +8,7 @@ $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 
 
-// echo var_dump($_POST);
+
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 

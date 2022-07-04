@@ -6,10 +6,6 @@ session_start();
 $pdo = new PDO('mysql:host=localhost;port=3306;dbname=vital_registration_database', 'root', '');
 $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-// fetch
-// only retrive the data with the user email and password no all the data
-// so put where condition
-
 
 $authorized_user = "holds some value";
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {

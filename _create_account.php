@@ -7,17 +7,6 @@ session_start();
 $pdo = new PDO('mysql:host=localhost;port=3306;dbname=vital_registration_database', 'root', '');
 $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-// fetch
-// $statement = $pdo->prepare('SELECT * FROM person_table');
-// $statement->execute();
-// $Admin = $statement->fetch(PDO::FETCH_ASSOC);
-// if ($_SERVER['REQUEST_METHOD'] === 'POST'){
-//  echo "<pre>";
-// echo var_dump($_POST);
-// echo "<pre>";
-
-// }
-
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
