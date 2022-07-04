@@ -51,6 +51,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $statement->bindValue(':name', $user_info['name']);
     $statement->execute();
 
+
+    // then update the rest
     $statement = $pdo->prepare("UPDATE person_table SET
                                 image = :image,
                                 name = :name,

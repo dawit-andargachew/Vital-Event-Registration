@@ -122,7 +122,7 @@ $user_info = $statement->fetchAll(PDO::FETCH_ASSOC);
 
 
                 <!-- for delete -->
-                <a class="delete" href="C_delete-me.php">Delete</a>
+                <a class="delete" href="C_delete-me.php">Delete Account</a>
                 </form>
 
             </div>
