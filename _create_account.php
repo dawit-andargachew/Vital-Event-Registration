@@ -33,15 +33,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         move_uploaded_file($image['tmp_name'], $imagePath);
     }
 
-    // if (!$ssn) {
-    //     $errors[] = 'Product title is ';
-    // }
-
-    // if (!$name) {
-    //     $errors[] = 'Product price is ';
-    // }
-
-    // if (empty($errors)) {
 
         $statement = $pdo->prepare("INSERT INTO person_table (ssn, image, name, f_name, g_name, sex, birth_date, birth_place, email, pass)
                 VALUES (:ssn, :image, :name, :f_name, :g_name,:sex,:birth_date,:birth_place,:email,:pass)");
@@ -63,7 +54,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $_SESSION['pass'] = $pass;
         $_SESSION['name'] = $name;
         header('Location: index.php');
-    // }
+
 }
 
 ?>
@@ -121,13 +112,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         </header>
 
-        <!-- <div id="intro">
-            <div class="moto">
-                <p>Welcome to</p>
-                <h1>Vital Events Registration</h1>
-                <p>Document your life events anytime, anywhere!</p>
-            </div>
-        </div> -->
+ 
 
     </div>
 

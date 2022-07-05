@@ -38,10 +38,7 @@ $death_info = $statement->fetchAll(PDO::FETCH_ASSOC);
 
 <body>
 
-    <!-- common  -->
-    <!-- <div class="img-div">
-<img class="img" src="images/logo.png" alt="logo-image">
-    </div> -->
+  
 
 
     <div>
@@ -69,13 +66,7 @@ $death_info = $statement->fetchAll(PDO::FETCH_ASSOC);
 
         </header>
 
-        <!-- <div id="intro">
-            <div class="moto">
-                <p>Welcome to</p>
-                <h1>Vital Events Registration</h1>
-                <p>Document your life events anytime, anywhere!</p>
-            </div>
-        </div> -->
+ 
 
     </div>
 

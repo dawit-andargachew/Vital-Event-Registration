@@ -37,10 +37,7 @@ $marriage_info = $statement->fetchAll(PDO::FETCH_ASSOC);
 
 <body>
 
-    <!-- common  -->
-    <!-- <div class="img-div">
-<img class="img" src="images/logo.png" alt="logo-image">
-    </div> -->
+  
 
 
 

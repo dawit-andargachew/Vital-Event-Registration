@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-// destroy sessions created before
+// destroy all sessions created before
 unset($_SESSION['ssn']);
 unset($_SESSION['email']);
 unset($_SESSION['pass']);
