@@ -144,7 +144,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </div>
 
     <!-- common nav bar end -->
-    <!-- common nav bar end -->
 
     <!--  for editiong marriage content -->
     <div class="container">
@@ -270,9 +269,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </div>
         <p>Copyright &copy; 2022 Events Registration Agency</p>
     </div>
-
-
-
 
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>

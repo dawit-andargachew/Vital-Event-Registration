@@ -76,9 +76,6 @@ $user_info = $statement->fetchAll(PDO::FETCH_ASSOC);
 
     <?php if (isset($_SESSION['ssn'])):?>
 
-    <!-- <div>
-        <a class="add-add" href="A_add-birth.php">Add Birth</a>
-    </div> -->
 
     <?php  foreach ($user_info as $i => $element) { ?>
     <div class="person-container" style=" margin-top:4em; margin-bottom:6em ">
@@ -154,11 +151,7 @@ $user_info = $statement->fetchAll(PDO::FETCH_ASSOC);
         </div>
         <p>Copyright &copy; 2022 Events Registration Agency</p>
     </div>
-
-
-
-
-
+    
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 

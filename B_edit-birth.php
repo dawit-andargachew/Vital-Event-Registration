@@ -133,7 +133,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </div>
 
     <!-- common nav bar end -->
-    <!-- common nav bar end -->
 
     <!--  for editiong birth content -->
     <div class="container">

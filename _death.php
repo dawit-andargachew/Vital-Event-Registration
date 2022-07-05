@@ -71,7 +71,6 @@ $death_info = $statement->fetchAll(PDO::FETCH_ASSOC);
     </div>
 
     <!-- common nav bar end -->
-    <!-- common nav bar end -->
 
     <!--  the death is displayed here -->
     <?php if (isset($_SESSION['ssn'])) {?>

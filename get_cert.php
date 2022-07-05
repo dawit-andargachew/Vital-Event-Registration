@@ -24,9 +24,6 @@ session_start();
 
 <body>
 
-    <!-- <div class="img-div">
-        <img class="img" src="images/logo.png" alt="logo-image">
-    </div> -->
 
     <div>
         <header>
@@ -54,13 +51,6 @@ session_start();
 
         </header>
 
-        <!-- <div id="intro">
-            <div class="moto">
-                <p class="p-w">Welcome to</p>
-                <h1>Vital Events Registration</h1>
-                <p class="p-d">Document your life events anytime, anywhere!</p>
-            </div>
-        </div> -->
 
     </div>
 
@@ -107,11 +97,6 @@ session_start();
         </div>
         <p>Copyright &copy; 2022 Events Registration Agency</p>
     </div>
-
-
-
-
-
 
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>

@@ -36,7 +36,7 @@ $birth_info = $statement->fetchAll(PDO::FETCH_ASSOC);
 
 <body>
 
-  
+
 
     <div>
         <header>
@@ -53,15 +53,12 @@ $birth_info = $statement->fetchAll(PDO::FETCH_ASSOC);
 
                 <!-- log in or logout -->
                 <?php if (isset($_SESSION['ssn'])) {?>
-                <a id="nav-login"  href="choice.php"> <?php echo $_SESSION['name'] ?> </a>
+                <a id="nav-login" href="choice.php"> <?php echo $_SESSION['name'] ?> </a>
                 <!-- <a href="./tools/logout.php"> Logout</a> -->
                 <?php } else {?>
                 <a id="nav-login" href="_login.php"> LogIn</a>
                 <?php }?>
             </nav>
-
-
-
         </header>
 
 

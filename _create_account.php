@@ -116,7 +116,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     </div>
 
-    <!-- common nav bar end -->
     <!--  form for marriage -->
     <div class="container">
         <div id="error-div"></div>

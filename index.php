@@ -24,9 +24,6 @@ session_start();
 
 <body>
 
-    <!-- <div class="img-div">
-        <img class="img" src="images/logo.png" alt="logo-image">
-    </div> -->
 
     <div>
         <header>
@@ -64,7 +61,6 @@ session_start();
     </div>
 
     <!-- common nav bar end -->
-
 
     <!--  for index page -->
 
@@ -141,12 +137,7 @@ session_start();
         </div>
         <p>Copyright &copy; 2022 Events Registration Agency</p>
     </div>
-
-
-
-
-
-
+    
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 

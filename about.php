@@ -50,23 +50,9 @@
 
         <div class="aboutus">
             <hr>
-            <!-- <h1>WHY US?</h1> -->
-            <!-- <hr> -->
             <img src="images/why-us.png" alt="why us">;
         </div>
 
-
-        <!-- <div class="welcome-to">
-        <h1>Welcome to</h1>
-    </div> -->
-
-        <!-- <div class="main-intro">
-
-        <h1> Vital Events Registration Agency</h1>
-    </div> -->
-
-
-        <!-- <h2 class="reco-h2">Recognising the Significance of life events!</h2> -->
 
         <div class="home-container">
 

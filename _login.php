@@ -87,12 +87,9 @@ if($authorized_user){
     </div>
 
     <!-- common nav bar end -->
-    <!--
-
-    php validation should be put here
-  -->
 
 
+    <!--    php validation should be put here  -->
 
     <div class="login-container">
         <?php if (!$authorized_user) {?>
@@ -154,12 +151,7 @@ if($authorized_user){
         </div>
         <p>Copyright &copy; 2022 Events Registration Agency</p>
     </div>
-
-
-
-
-
-
+    
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 

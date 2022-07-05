@@ -2,7 +2,6 @@
 require_once "./tools/function.php";
 session_start();
 
-// do not forget to add sex after all in the marriage
 
 // connect the datase
 $pdo = new PDO('mysql:host=localhost;port=3306;dbname=vital_registration_database', 'root', '');
@@ -103,7 +102,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     </div>
 
-    <!-- common nav bar end -->
     <!-- common nav bar end -->
 
 
