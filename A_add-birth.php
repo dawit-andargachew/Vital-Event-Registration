@@ -90,11 +90,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <?php }?>
             </nav>
 
-
-
         </header>
-
- 
 
     </div>
 

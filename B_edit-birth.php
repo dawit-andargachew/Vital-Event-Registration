@@ -244,9 +244,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <p>Copyright &copy; 2022 Events Registration Agency</p>
     </div>
 
-
-
-
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 

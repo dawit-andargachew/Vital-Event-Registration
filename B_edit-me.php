@@ -4,7 +4,6 @@ require_once "./tools/function.php";
 session_start();
 $ssn = $_SESSION['ssn'];
 
-
 // connect the datase
 $pdo = new PDO('mysql:host=localhost;port=3306;dbname=vital_registration_database', 'root', '');
 $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -89,7 +88,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 ?>
 
 
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -109,9 +107,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <link type="text/css" rel="stylesheet" href="./style/style.css">
 </head>
 
-<body>
-
-  
+<body>  
 
 
     <div>
@@ -136,10 +132,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <?php }?>
             </nav>
 
-
-        </header>
-
- 
+        </header> 
 
     </div>
 
@@ -242,7 +235,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </form>
 
     </div>
-
 
 
     <!--  for footer -->
