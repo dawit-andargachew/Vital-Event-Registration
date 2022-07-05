@@ -10,6 +10,7 @@ if(!$b_ssn){
     exit;
 }
 
+// delete from the database
 $statement = $pdo->prepare('DELETE FROM birth_table WHERE b_ssn = :b_ssn');
 $statement->bindValue(':b_ssn', $b_ssn);
 $statement->execute();

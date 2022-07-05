@@ -10,6 +10,7 @@ if(!$d_ssn){
     exit;
 }
 
+// delete from the database
 $statement = $pdo->prepare('DELETE FROM death_table WHERE d_ssn = :d_ssn');
 $statement->bindValue(':d_ssn', $d_ssn);
 $statement->execute();

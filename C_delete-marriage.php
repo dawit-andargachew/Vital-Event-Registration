@@ -10,6 +10,7 @@ if(!$m_ssn){
     exit;
 }
 
+// delete from the database
 $statement = $pdo->prepare('DELETE FROM marriage_table WHERE m_ssn = :m_ssn');
 $statement->bindValue(':m_ssn', $m_ssn);
 $statement->execute();

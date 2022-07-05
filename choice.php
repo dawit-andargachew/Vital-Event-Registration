@@ -49,9 +49,7 @@ session_start();
                 <a id="nav-login" href="_login.php"> LogIn</a>
                 <?php }?>
             </nav>
-
-
-
+        
         </header>
 
 
