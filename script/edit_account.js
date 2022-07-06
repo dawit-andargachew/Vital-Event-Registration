@@ -112,7 +112,7 @@ function validate_sex(){
 }
 
 form.addEventListener('submit', function(event){
-    // validate_image();
+    // validate_image(); // image validation is not used while updating
     validate_name();
     validate_f_name();
     validate_g_name();
