@@ -94,7 +94,6 @@ nav a:hover {
     outline: none;
 }
 
-
 /*End of header=================================*/
 .moto {
     color: rgb(252, 88, 0);
@@ -109,7 +108,6 @@ nav a:hover {
 
 .moto p {
     color: white;
-    /* margin-top: -1rem; */
     font-size: 1.5em;
 }
 
