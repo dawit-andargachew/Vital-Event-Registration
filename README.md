@@ -1,13 +1,19 @@
 # Vital-Event-Registration <hr>
+
+## ✔  By Definition Vital Event refers to :
+
+           the live birth, death, foetal death, marriage, divorce, adoption, legitimation,
+           recognition of parenthood, annulment of marriage, or legal separation.              
 <br>
 
 ### Vital or civil registration is the system by which a government records the vital events of its citizens and residents.
-
-<i> This system helps to maintains a continuous record of demographic trends, and centrally keep the registration of vital events at national level such as birth, marriage, divorce and death.<i>
-
-## Here are some screen shots of the projects <hr>
-
 <br>
+<hr> This system helps to maintains a continuous record of demographic trends, and centrally keep the registration of vital events at national level such as birth, marriage, divorce and death.  
+<hr>
+
+<br> 
+## Here are some screen shots of the projects 
+<hr> <br>
 
 # Home page <br>
 
