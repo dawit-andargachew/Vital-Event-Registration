@@ -5,7 +5,7 @@
 
 <i> This system helps to maintains a continuous record of demographic trends, and centrally keep the registration of vital events at national level such as birth, marriage, divorce and death.<i>
 
-##H ere are some screen shots of the projects <hr>
+## Here are some screen shots of the projects <hr>
 
 <br>
 
