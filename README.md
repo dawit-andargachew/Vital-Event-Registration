@@ -18,10 +18,8 @@
 
 # Home page <br>
 
+<img src="https://user-images.githubusercontent.com/84455217/177803916-57dd42e9-318b-4765-9539-737585b3d879.png" width=70% >
 
-![Screenshot (16)](https://user-images.githubusercontent.com/84455217/177803916-57dd42e9-318b-4765-9539-737585b3d879.png) <br><br>
-
-![Screenshot (17)](https://user-images.githubusercontent.com/84455217/177804136-4fea92e8-f762-490a-bc4c-d7081fc36f59.png)
-
+<img src="https://user-images.githubusercontent.com/84455217/177804136-4fea92e8-f762-490a-bc4c-d7081fc36f59.png" width=70% >
 
 ### Thanks !! <hr>
