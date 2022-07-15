@@ -1,8 +1,8 @@
 # Vital-Event-Registration <hr>
 
-## ✔  By Definition Vital Event refers to :
+## ✔  What does Vital Event mean ?
 
-           the live birth, death, foetal death, marriage, divorce, adoption, legitimation,
+           Vital Even is the live birth, death, foetal death, marriage, divorce, adoption, legitimation,
            recognition of parenthood, annulment of marriage, or legal separation.              
 <br>
 
