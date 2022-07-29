@@ -1,3 +1,4 @@
+<br> <br>
 # Vital-Event-Registration <hr>
 
 ## ✔  What does Vital Event mean ?
@@ -21,7 +22,8 @@
 <img src="https://user-images.githubusercontent.com/84455217/177803916-57dd42e9-318b-4765-9539-737585b3d879.png" width=70% >
 
 <img src="https://user-images.githubusercontent.com/84455217/177804136-4fea92e8-f762-490a-bc4c-d7081fc36f59.png" width=70% >
-
+<br> 
+<hr>
 
 
 <br><br>
@@ -29,22 +31,18 @@
 
 ## ‼️ Prerequisites 
 
-#### 🔑 This project uses XAMP, free and open-source cross-platform web server solution.
-   You can download XAMP <a href="https://www.apachefriends.org/" target=_blank > HERE </a> <br> <br>
+### 🔑 This project uses XAMP, free and open-source cross-platform web server solution.
+&nbsp; &nbsp; &nbsp; You can download XAMP <a href="https://www.apachefriends.org/" target=”_blank”  > HERE </a> <br> <br>
+<br>
 
-#### 🔑 In ordet to store users vital data, you must have a database. <br>
+### 🔑 In ordet to store users vital data, you must have a database. <br>
 <ul>
  <li>  Create database named   <strong> vital_registration_database </strong> </li>
- <li> and use the schema found on <a href="https://github.com/dawit01/Vital-Event-Registration/blob/main/Vital_Registration_database_schema.sql" target=_blank > Vital_Registration_database_schema.sql </a> </li>           
+ <li> and use the schema found on <a href="https://github.com/dawit01/Vital-Event-Registration/blob/main/Vital_Registration_database_schema.sql" target=”_blank”  > Vital_Registration_database_schema.sql </a> </li>           
 </ul>
 
 
 
 
-
-
-
-
-
-
+<br> <br>
 ### Thanks !! <hr>
