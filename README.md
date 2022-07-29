@@ -27,10 +27,19 @@
 <br><br>
 # 🧰 Getting Started
 
-### ‼️ Prerequisites 
+## ‼️ Prerequisites 
 
-This project uses XAMP, free and open-source cross-platform web server solution <br>
-you can download XAMP <a href="https://www.apachefriends.org/" target=_blank > HERE  </a>
+#### 🔑 This project uses XAMP, free and open-source cross-platform web server solution.
+   You can download XAMP <a href="https://www.apachefriends.org/" target=_blank > HERE </a> <br> <br>
+
+#### 🔑 In ordet to store users vital data, you must have a database. <br>
+<ul>
+ <li>  Create database named   <strong> vital_registration_database </strong> </li>
+ <li> and use the schema found on <a href="https://github.com/dawit01/Vital-Event-Registration/blob/main/Vital_Registration_database_schema.sql" target=_blank > Vital_Registration_database_schema.sql </a> </li>           
+</ul>
+
+
+
 
 
 
