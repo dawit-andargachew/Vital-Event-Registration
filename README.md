@@ -22,4 +22,20 @@
 
 <img src="https://user-images.githubusercontent.com/84455217/177804136-4fea92e8-f762-490a-bc4c-d7081fc36f59.png" width=70% >
 
+
+
+<br><br>
+# 🧰 Getting Started
+
+### ‼️ Prerequisites 
+
+This project uses XAMP, free and open-source cross-platform web server solution <br>
+you can download XAMP <a href="https://www.apachefriends.org/" target=_blank > HERE  </a>
+
+
+
+
+
+
+
 ### Thanks !! <hr>
