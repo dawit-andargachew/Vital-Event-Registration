@@ -26,7 +26,6 @@
 <hr>
 
 
-<br><br>
 # 🧰 Getting Started
 
 ## ‼️ Prerequisites 
@@ -36,10 +35,11 @@
 <br>
 
 ### 🔑 In ordet to store users vital data, you must have a database. <br>
-<ul>
- <li>  Create database named   <strong> vital_registration_database </strong> </li>
- <li> and use the schema found on <a href="https://github.com/dawit01/Vital-Event-Registration/blob/main/Vital_Registration_database_schema.sql" target=”_blank”  > Vital_Registration_database_schema.sql </a> </li>           
-</ul>
+
+
+-   Create database named  `vital_registration_database`
+-  and use the schema found on <a href="https://github.com/dawit01/Vital-Event-Registration/blob/main/Vital_Registration_database_schema.sql" target=”_blank”  > `Vital_Registration_database_schema.sql` </a>       
+
 
 
 
